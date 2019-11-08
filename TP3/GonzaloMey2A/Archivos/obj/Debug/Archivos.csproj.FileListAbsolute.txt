@@ -1,0 +1,9 @@
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\bin\Debug\Archivos.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\bin\Debug\Archivos.pdb
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\bin\Debug\Exceptions.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\bin\Debug\Exceptions.pdb
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\obj\Debug\Archivos.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\Archivos\obj\Debug\Archivos.pdb

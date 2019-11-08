@@ -1,0 +1,9 @@
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\bin\Debug\Exceptions.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\bin\Debug\Exceptions.pdb
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

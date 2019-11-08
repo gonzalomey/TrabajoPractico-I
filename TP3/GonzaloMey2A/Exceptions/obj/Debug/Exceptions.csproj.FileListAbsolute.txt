@@ -1,0 +1,6 @@
+C:\Users\gonza\source\repos\GonzaloMey2A\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\gonza\source\repos\GonzaloMey2A\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\GonzaloMey2A\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\GonzaloMey2A\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\gonza\source\repos\GonzaloMey2A\Exceptions\obj\Debug\Exceptions.pdb

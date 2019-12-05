@@ -25,9 +25,9 @@ namespace Entidades_2018
             this.tipo = tipo;
         }
 
-        public Leche(EMarca marca, string patente, ConsoleColor color)  : base(patente, marca, color)
+        public Leche(EMarca marca, string patente, ConsoleColor color)  : this(patente, marca, color,ETipo.Entera)
         {
-            tipo = ETipo.Entera;
+           
         }
 
         /// <summary>
